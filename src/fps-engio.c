@@ -303,7 +303,7 @@ static void fps_read_current_timer_values();
     #define FPS_TIMER_B_MIN 1050
     #define SENSOR_TIMING_TABLE MEM(0xce98)
     #define VIDEO_PARAMETERS_SRC_3 0x70C0C
-#elif defined(CONFIG_4000D)
+#elif defined(CONFIG_1300D) || defined(CONFIG_4000D)
 //    #define NEW_FPS_METHOD 1
 //    #define SENSOR_TIMING_TABLE MEM(0x4015C)
 //    #define VIDEO_PARAMETERS_SRC_3 0x6A95C

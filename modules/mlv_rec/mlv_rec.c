@@ -110,6 +110,7 @@ static uint32_t cam_700d = 0;
 static uint32_t cam_60d = 0;
 static uint32_t cam_100d = 0;
 static uint32_t cam_1100d = 0;
+static uint32_t cam_1300d = 0;
 
 static uint32_t cam_5d3 = 0;
 static uint32_t cam_5d3_113 = 0;

@@ -17,7 +17,7 @@
 //~ #define CONFIG_VXWORKS
 
 /** This camera has a DIGIC IV chip */
-//#define CONFIG_DIGIC_IV
+#define CONFIG_DIGIC_IV
 
 /** This camera uses new-style DryOS task hooks */
 #define CONFIG_NEW_DRYOS_TASK_HOOKS

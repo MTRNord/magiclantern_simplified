@@ -17,6 +17,7 @@
 #define SIG_7D_203   0x50163E93 // from FF010000
 #define SIG_7D_MASTER_203 0x640BF4D1 // from FF010000
 #define SIG_1100D_105 0x46de7624 // from FF010000
+#define SIG_1300D_110 0x3d8461b5 // from FE0C0000 (atypical)
 #define SIG_4000D_100 0x56d44dd6 // from FE0C0000 (atypical)
 #define SIG_6D_116   0x11cb1ed2 // from FF0C0000
 #define SIG_5D3_113  0x2e2f65f5 // from FF0C0000
